@@ -1,6 +1,3 @@
-[submodule "back-end"]
-	path = back-end
-	url = https://github.com/evaneres-dev/meu-back-sub.git
 [submodule "back-end-1"]
 	path = back-end-1
 	url = https://github.com/evaneres-dev/meu-back-sub.git
