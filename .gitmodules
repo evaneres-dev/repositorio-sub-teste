@@ -4,3 +4,6 @@
 [submodule "analise-dados"]
 	path = analise-dados
 	url = https://github.com/evaneres-dev/analise-dados.git
+[submodule "modelos-ml"]
+	path = modelos-ml
+	url = https://github.com/evaneres-dev/modelos-ml.git
